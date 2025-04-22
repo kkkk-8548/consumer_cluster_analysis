@@ -1,4 +1,4 @@
-# consumer_cluster_analysis
+# Segmentação de Clientes
 
 Definição e Descrição do Problema:
 
@@ -6,4 +6,4 @@ O objetivo desta análise é segmentar os clientes da base de dados de consumido
 
 * Premissas e Hipóteses:
 
-A análise considerará variáveis como padrão de gastos (por tipo de produto), canais de compra utilizados, frequência de interação com a plataforma, perfil demográfico (renda, composição familiar, escolaridade, estado civil) e engajamento com campanhas de marketing.
+A análise considerará variáveis como padrão de gastos (por tipo de produto), frequência de interação com a plataforma, perfil demográfico (renda, composição familiar, escolaridade, estado civil) e engajamento com campanhas de marketing.
